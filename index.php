@@ -1,11 +1,11 @@
-<!DOCTYPE html>
-<html lang="es">
-<head >
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" >
-	<title>Permiso de usuarios</title>
-</head>
-<body>
-	<h1>INICIO</h1>
-</body>
-</html>
+
+ <?php
+ require_once('librerias/cabecera.php');
+ ?>
+  <div class="container">
+    <h1 class="mt-5">Contenido</h1>
+   
+  </div>
+ <?php
+ require_once('librerias/pie.php');
+ ?>
